@@ -13,3 +13,5 @@ The first thing to know is that the sequence is not originally Fibonacci's, who 
 
 Only in the 19th century did historians come up with the nickname Fibonacci (roughly meaning, "son of the Bonacci clan"), to distinguish the mathematician from another famous Leonardo of Pisa, Devlin said. 
 
+^^
+words in thanks to - https://www.livescience.com/37470-fibonacci-sequence.html
